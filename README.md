@@ -17,7 +17,7 @@ O livro pode ser comprado em
 ## Tecnologias usadas para os exercícios do Livro
 - Javascript
 
-##Capitulos
+## Capítulos
 - Capitulo 1: Introdução ao algoritmos
 - Capitulo 2: Selection Sort
 - Capitulo 3: Recursion
