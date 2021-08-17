@@ -11,8 +11,7 @@ nada mais que procedimentos passa a passo para solucionar um problema.
 O livro apesar de ser ensinado em Python, foi utilizado o Javascript
 para os exercícios propostos neste diretório. </br>
 O livro pode ser comprado em 
-[Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos]
-(https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
+[Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
 
 ## Tecnologias usadas para os exercícios do Livro
 - Javascript
