@@ -2,7 +2,7 @@
     <img src="https://images-na.ssl-images-amazon.com/images/I/71Vkg7GfPFL.jpg">
 </h1>
 
-#ENTENDENDO ALGORITMOS - GROKKING ALGORITHMS
+# ENTENDENDO ALGORITMOS - GROKKING ALGORITHMS
 
 ## Sobre o Livro
 Este é um livro ilustrado para que programadores possam entender
