@@ -22,3 +22,20 @@ O livro pode ser comprado em
 - Capitulo 3: Recursion
 - Capitulo 4: Quicksort
 - Capitulo 5: Hash Table
+
+## Exercícios:
+- Capitulo 1:
+    * [Binary Search](1_binary_search.js)
+- Capitulo 2:
+    * [Code Listing](2_code_listing.js)
+    * [Code Listing 2](2_code_listing_2.js)
+- Capitulo 3:
+    * [Countdown](3_countdown.js)
+    * [Fatorial](3_fatorial.js)
+    * [Find Key](3_find_key.js)
+    * [Find Key 2](3_find_key_2.js)
+    * [The Stack](3_the_stack.js)
+- Capitulo 4:
+    * [Loop Sum](4_loop_sum.js)
+    * [Quicksort](4_quicksort.js)
+    * [Recursive Count](4_recursive_count.js)
