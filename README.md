@@ -40,3 +40,4 @@ O livro pode ser comprado em
     * [Quicksort](4_quicksort.js)
     * [Recursive Count](4_recursive_count.js)
     * [Recursive Max](4_recursive_count.js)
+    * [Recursive Sum](4_recursive_sum.js)
