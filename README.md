@@ -44,3 +44,5 @@ O livro pode ser comprado em
 - Capitulo 5:
     * [Check Voters](5_check_voters.js)
     * [Price Groceries](5_price_groceries.js)
+- Capitulo 6:
+    * [Breath First Search](6_breath_first_search.js)
