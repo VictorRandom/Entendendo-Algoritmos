@@ -22,6 +22,7 @@ O livro pode ser comprado em
 - Capitulo 3: Recursion
 - Capitulo 4: Quicksort
 - Capitulo 5: Hash Table
+- Capitulo 6: Breadth-first search
 
 ## Exercícios:
 - Capitulo 1:
