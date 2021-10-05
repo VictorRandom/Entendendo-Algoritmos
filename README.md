@@ -47,3 +47,4 @@ O livro pode ser comprado em
     * [Price Groceries](5_price_groceries.js)
 - Capitulo 6:
     * [Breath First Search](6_breath_first_search.js)
+    * [Breadth First Search Recursion](02_breadth-first_search_recursion.js)
